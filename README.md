@@ -1,4 +1,5 @@
-使用前请看说明！
+使用前请看说明！！！
+致谢：感谢北京印刷学院网络数据库技术的舒后老师
 数据库截图<img width="1024" height="800" alt="f71d4c98200b0c952cf281ba9591cbe7" src="https://github.com/user-attachments/assets/6f22ddac-b26f-4bed-b015-532e0a5cf5f3" /><img width="1213" height="710" alt="image" src="https://github.com/user-attachments/assets/389bdad5-92a0-4f83-830d-8415b4585e1a" />
 
 前端<img width="1268" height="713" alt="image" src="https://github.com/user-attachments/assets/97c9c4f3-f848-4295-adae-3f5e80e55872" /><img width="1201" height="709" alt="image" src="https://github.com/user-attachments/assets/20f27559-3479-4c53-a11a-4cb26acb17e5" />
