@@ -1,4 +1,10 @@
-使用前请看说明！！！
+使用前请看说明！
+数据库截图<img width="1024" height="800" alt="f71d4c98200b0c952cf281ba9591cbe7" src="https://github.com/user-attachments/assets/6f22ddac-b26f-4bed-b015-532e0a5cf5f3" /><img width="1213" height="710" alt="image" src="https://github.com/user-attachments/assets/389bdad5-92a0-4f83-830d-8415b4585e1a" />
+
+前端<img width="1268" height="713" alt="image" src="https://github.com/user-attachments/assets/97c9c4f3-f848-4295-adae-3f5e80e55872" /><img width="1201" height="709" alt="image" src="https://github.com/user-attachments/assets/20f27559-3479-4c53-a11a-4cb26acb17e5" />
+主包的抖音页后续更新可关注<img width="1179" height="2556" alt="d54ded7d2d3c1637c34cee9ccee8b0ea" src="https://github.com/user-attachments/assets/5bbf7639-564b-43c7-8205-97ce574a3d81" />
+
+
   <h1>🎓 张雪峰风格 AI 高考志愿系统 (本地开源版)</h1>
   <p>打破升学信息差，普通家用电脑也能跑起来的“私人升学规划师”！</p>
 </div>
