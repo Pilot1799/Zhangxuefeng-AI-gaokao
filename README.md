@@ -1,6 +1,6 @@
 使用前请看说明！！！
-致谢：感谢北京印刷学院网络数据库技术的舒后老师
-数据库截图<img width="1024" height="800" alt="f71d4c98200b0c952cf281ba9591cbe7" src="https://github.com/user-attachments/assets/6f22ddac-b26f-4bed-b015-532e0a5cf5f3" /><img width="1213" height="710" alt="image" src="https://github.com/user-attachments/assets/389bdad5-92a0-4f83-830d-8415b4585e1a" />
+#致谢：感谢北京印刷学院网络数据库技术的舒后老师
+#数据库截图<img width="1024" height="800" alt="f71d4c98200b0c952cf281ba9591cbe7" src="https://github.com/user-attachments/assets/6f22ddac-b26f-4bed-b015-532e0a5cf5f3" /><img width="1213" height="710" alt="image" src="https://github.com/user-attachments/assets/389bdad5-92a0-4f83-830d-8415b4585e1a" />
 
 前端<img width="1268" height="713" alt="image" src="https://github.com/user-attachments/assets/97c9c4f3-f848-4295-adae-3f5e80e55872" /><img width="1201" height="709" alt="image" src="https://github.com/user-attachments/assets/20f27559-3479-4c53-a11a-4cb26acb17e5" />
 主包的抖音页后续更新可关注<img width="1179" height="2556" alt="d54ded7d2d3c1637c34cee9ccee8b0ea" src="https://github.com/user-attachments/assets/5bbf7639-564b-43c7-8205-97ce574a3d81" />
@@ -17,6 +17,8 @@
 ⚠️ **千万不要在左边这堆英文代码文件里乱点！** ⚠️
 
 如果你不懂怎么编译代码，只想在自己电脑上跑起这套系统，请严格按照以下步骤去下载**包含绝密高考数据库的最终打包压缩包（大约500多MB）**：
+<img width="2508" height="1279" alt="1513f84f7d7d334fedfacc91fe36d77b" src="https://github.com/user-attachments/assets/feef94de-8405-45a8-b483-8b57484cc691" />
+<img width="2462" height="1279" alt="fb7e5d09bf71e19e506221afa407794a" src="https://github.com/user-attachments/assets/d4c5097a-e8ec-43a4-9273-3cd88c217de7" />
 
 1. 👉 看向你电脑屏幕的**最右侧边栏**。
 2. 往下滑一点点，找到 **【发布】(Releases)** 区域。
